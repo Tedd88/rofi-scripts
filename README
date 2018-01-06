@@ -1,15 +1,8 @@
 # Rofi based scripts
 
 
-
 ## monitor_layout.sh
 
 ### Usage
-
-```bash
 ./monitor_layout.sh
-```
-### Screenshot
-
-![Monitor Layout](monitor_layout.png)
 
